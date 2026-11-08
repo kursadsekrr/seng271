@@ -2,8 +2,10 @@
 
 ## Team
 | Name | GitHub |
+| --- | --- |
 | Kürşad Şeker | @kursadsekrr |
-| Orhan Yalın Öztürk | @yalinn |
+| Yalın Özrtürk | @yalinn |
+
 ## Requirements
 - Java [version] or later
 - External libraries: [none]
@@ -46,8 +48,8 @@ Generated files are saved in output/: [timetables, unscheduled sessions report, 
     output/              Generated timetables and emails
 
 ## Versions
-| --- | --- | --- | --- |
 | Version | Tag | Date | Summary |
+| --- | --- | --- | --- |
 | Code v1 | code-v1 | 8.11.2026 | Project skeleton and main menu |
 | Code v2 | code-v2 | [ ] | [ ] |
 | Code v3 | code-v3 | [ ] | [ ] |
@@ -58,6 +60,11 @@ Generated files are saved in output/: [timetables, unscheduled sessions report, 
 
 ## Known Limitations
 - [ ]
+
+## Documents
+- SRS: docs/requirements/
+- SDD: docs/design/
+- Test results: docs/testing/Test-Results.pdf
 
 ## Documents
 - SRS: docs/requirements/
