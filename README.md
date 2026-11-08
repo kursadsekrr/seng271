@@ -46,6 +46,7 @@ Generated files are saved in output/: [timetables, unscheduled sessions report, 
     output/              Generated timetables and emails
 
 ## Versions
+| --- | --- | --- | --- |
 | Version | Tag | Date | Summary |
 | Code v1 | code-v1 | 8.11.2026 | Project skeleton and main menu |
 | Code v2 | code-v2 | [ ] | [ ] |
