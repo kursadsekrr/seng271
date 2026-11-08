@@ -4,8 +4,7 @@
 | Name | GitHub |
 | --- | --- |
 | Kürşad Şeker | @kursadsekrr |
-| Yalın Özrtürk | @yalinn |
-
+| Orhan Yalın Öztürk | @yalinn |
 ## Requirements
 - Java [version] or later
 - External libraries: [none]
