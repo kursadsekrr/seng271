@@ -2,7 +2,6 @@
 
 ## Team
 | Name | GitHub |
-| --- | --- |
 | Kürşad Şeker | @kursadsekrr |
 | Orhan Yalın Öztürk | @yalinn |
 ## Requirements
@@ -48,8 +47,7 @@ Generated files are saved in output/: [timetables, unscheduled sessions report, 
 
 ## Versions
 | Version | Tag | Date | Summary |
-| --- | --- | --- | --- |
-| Code v1 | code-v1 | [ ] | Project skeleton and main menu |
+| Code v1 | code-v1 | 8.11.2026 | Project skeleton and main menu |
 | Code v2 | code-v2 | [ ] | [ ] |
 | Code v3 | code-v3 | [ ] | [ ] |
 | Code v4 | code-v4 | [ ] | [ ] |
