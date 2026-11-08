@@ -20,7 +20,6 @@ public class Main {
                 default -> System.out.println("Unknown option: " + choice);
             }
         }
-        in.close();
     }
 
     private static void printMenu() {
