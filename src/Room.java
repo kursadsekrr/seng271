@@ -1,3 +1,4 @@
+package src;
 public class Room {
     private String id;
     private String type;
