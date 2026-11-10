@@ -13,7 +13,7 @@
 | **Date** | 10.11.2026 |
 | **Team number** | Team 01 |
 | **Member 1** | Orhan Yalın Öztürk [GitHub: yalinozturk] |
-| **Member 2** | Kürşad Şeker [GitHub: kursadseker] |
+| **Member 2** | Kürşad Şeker [GitHub: kursadsekrr] |
 | **Repository** | https://github.com/cankaya-seng/seng271-timetable-management |
 
 ---
