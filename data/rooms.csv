@@ -1,0 +1,5 @@
+RoomID,Building,Capacity,RoomType
+A101,Main,60,Classroom
+A102,Main,50,Classroom
+B201,Engineering,40,Laboratory
+B202,Engineering,50,Laboratory

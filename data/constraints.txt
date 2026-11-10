@@ -1,0 +1,4 @@
+CourseCode,ConstraintType,Value,Priority
+SENG301,FixedTime,Wed 13:00-16:00,Mandatory
+SENG305,FixedTime,Fri 09:00-12:00,Mandatory
+SENG401,SpecificRoom,B202,Preferred

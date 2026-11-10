@@ -1,0 +1,7 @@
+CourseCode,CourseTitle,YearGroup,InstructorID,TheoryHours,LabHours,Enrollment,RoomType
+SENG101,Introduction to Programming,1,INST02,3,2,70,Classroom
+SENG201,Object-Oriented Programming,2,INST01,3,2,55,Classroom
+SENG203,Data Structures,2,INST03,3,2,45,Classroom
+SENG301,Software Architecture,3,INST04,3,0,40,Classroom
+SENG305,Database Management Systems,3,INST05,3,0,40,Classroom
+SENG401,Software Testing & QA,4,INST04,2,2,35,Classroom

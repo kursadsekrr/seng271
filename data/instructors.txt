@@ -1,0 +1,6 @@
+InstructorID,FullName,UnavailableDays,PreferredTimes
+INST01,Dr. Demir,Fri 09:00-17:00,Morning
+INST02,Prof. Yilmaz,None,Morning
+INST03,Dr. Kaya,None,None
+INST04,Dr. Aksoy,None,Morning
+INST05,Dr. Sahin,Fri 09:00-17:00,Afternoon
